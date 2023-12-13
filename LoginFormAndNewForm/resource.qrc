@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>media/ePosta.png</file>
+        <file>media/eMail.png</file>
+    </qresource>
+</RCC>
